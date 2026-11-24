@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Hanin 👋
 
-<!--
-**hanin-magdy/hanin-magdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior QA engineer from Egypt. I work across manual testing, API testing, and test automation, and I like having every test I write backed by clear documentation.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual testing: test plans, test case design, bug reports with evidence, RTM, test summary reports
+- API testing: Postman, Newman
+- UI automation: Selenium WebDriver, TestNG, Cucumber (BDD), Page Object Model, Java
+- Database testing: MySQL (schema design, constraints, data validation queries)
+- Tools: Maven, Git, GitHub, GitHub Actions
+
+## Featured projects
+
+- [guru99-bank-manual-testing](https://github.com/hanin-magdy/guru99-bank-manual-testing): a full manual testing cycle for a banking app: test plan, test scenarios, test cases, bug reports with screenshots, RTM, and a test summary report.
+- [Library-API-Newman-Automation](https://github.com/hanin-magdy/Library-API-Newman-Automation): data-driven API test suite executed with Newman CLI, 54/54 assertions passing, HTML reports, running on GitHub Actions.
+- [Enterprise-Selenium-Automation-Suite](https://github.com/hanin-magdy/Enterprise-Selenium-Automation-Suite): Selenium + TestNG framework with Page Object Model and Allure reports.
+- [OrangeHRM_Cucumber_TestNG_Automation](https://github.com/hanin-magdy/OrangeHRM_Cucumber_TestNG_Automation): BDD UI automation with Cucumber and TestNG on the OrangeHRM demo site.
